@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DinnerPlanner:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DinnerPlanner_jar</output-path>
+    <root id="archive" name="DinnerPlanner.jar">
+      <element id="module-output" name="DinnerPlanner" />
+    </root>
+  </artifact>
+</component>
